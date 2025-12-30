@@ -9,6 +9,11 @@ Arazi sahipleri, kullanmadıkları tarlalarını veya seralarını sisteme ekley
 Projenin çalışır halini ve kullanım senaryosunu izlemek için:
 (https://www.youtube.com/watch?v=XYIcOmg_vow)
 
+## Mimari Dokümantasyon
+Projenin sistem analizi ve tasarım detaylarını içeren rapor:
+
+ **[İMECE - Mimari Tasarım Raporu (PDF)](IMECE%20MİMARİ%20TASARIM%20RAPORU.pdf)**
+
 ## Kullanılan Teknolojiler
 * **Backend:** PHP 8.2
 * **Veritabanı:** MySQL (İlişkisel Veritabanı Mimarisi)
