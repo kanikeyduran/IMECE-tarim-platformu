@@ -12,7 +12,7 @@ Projenin çalışır halini ve kullanım senaryosunu izlemek için:
 ## Mimari Dokümantasyon
 Projenin sistem analizi ve tasarım detaylarını içeren rapor:
 
- **[İMECE - Mimari Tasarım Raporu (PDF)](IMECE%20MİMARİ%20TASARIM%20RAPORU.pdf)**
+ **[İMECE - Mimari Tasarım Raporu (PDF)](Imece_Rapor.pdf)**
 
 ## Kullanılan Teknolojiler
 * **Backend:** PHP 8.2
